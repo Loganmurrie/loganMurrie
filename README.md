@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile!
 
-<!--
-**Loganmurrie/loganMurrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sage Myers 🌟  
+I am a Passionate IT Support/ Software Engineer who loves building impactful projects, and helping others solve problems!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me 
+- 🌱 I’m learning: **Ruby Software**  
+- 💬 Ask me about: **APIs, Frontend Development, or Java!**  
+- 👨‍💻 Check out my latest project [here!](https://github.com/IanBirdcatcher/Avocado-Frontend)
+- ⚡ Fun fact: I love to play video games and watch movies on the daily!
+
+---
+
+## 🌐 Find Me Online
+- **LinkedIn**:[myLinkedIn](https://www.linkedin.com/in/john-murrie-009310292/)  
+- **Email**: logan.murrie@eagles.oc.edu
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=loganmurrie&show_icons=true&theme=radical)
+
+---
+
+Thank you for visiting! Feel free to reach out or explore my projects. 🚀
