@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile!
 
-I'm Sage Myers 🌟  
+I'm Logan Murrie 🌟  
 I am a Passionate IT Support/ Software Engineer who loves building impactful projects, and helping others solve problems!
 
 ---
