@@ -6,7 +6,7 @@ I am a Passionate IT Support/ Software Engineer who loves building impactful pro
 ---
 
 ## 🚀 About Me 
-- 🌱 I’m learning: **Ruby Software**  
+- 🌱 I’m Currently Working On: **Apple and Microsoft Certifications**  
 - 💬 Ask me about: **APIs, Frontend Development, or Java!**  
 - 👨‍💻 Check out my latest project [here!](https://github.com/IanBirdcatcher/Avocado-Frontend)
 - ⚡ Fun fact: I love to play video games and watch movies on the daily!
